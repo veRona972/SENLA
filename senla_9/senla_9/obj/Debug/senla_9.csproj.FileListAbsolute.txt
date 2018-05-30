@@ -1,0 +1,5 @@
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_9\senla_9\bin\Debug\senla_9.exe.config
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_9\senla_9\bin\Debug\senla_9.exe
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_9\senla_9\bin\Debug\senla_9.pdb
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_9\senla_9\obj\Debug\senla_9.exe
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_9\senla_9\obj\Debug\senla_9.pdb

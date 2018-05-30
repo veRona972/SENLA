@@ -1,0 +1,6 @@
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_5\senla_5\bin\Debug\senla_5.exe.config
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_5\senla_5\bin\Debug\senla_5.exe
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_5\senla_5\bin\Debug\senla_5.pdb
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_5\senla_5\obj\Debug\senla_5.csprojResolveAssemblyReference.cache
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_5\senla_5\obj\Debug\senla_5.exe
+C:\Users\Красотка\Documents\Visual Studio 2013\Projects\senla_5\senla_5\obj\Debug\senla_5.pdb
